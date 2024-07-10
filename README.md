@@ -1,0 +1,1 @@
+# Base-Classification-Model-Paradigma-Soft
