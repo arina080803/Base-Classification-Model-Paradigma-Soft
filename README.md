@@ -5,12 +5,16 @@
 
 
 Intended applications:
+
 · Encoder assistant. 
 A module in the registry that will offer codes based on the information provided in the coding application 
+
 · The assistant of the inspector. 
 A module in the registry that tells the verifier suspicious codes when checking declarations 
+
 · Webservice 
 The client enters the required descriptions and the system offers the code
+
 · Coding system for customs clearance of parcels from trading platforms like Ali, integration with the sites will be required here
 
 
